@@ -14,4 +14,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derronqi&repo=yolov7-face)](https://github.com/derronqi/yolov7-face)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derronqi&repo=yolov8-face)](https://github.com/derronqi/yolov8-face)
