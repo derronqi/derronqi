@@ -41,3 +41,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derronqi&repo=yolov7-face)](https://github.com/derronqi/yolov7-face)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derronqi&repo=yolov8-face)](https://github.com/derronqi/yolov8-face)
+
+https://jkdn-tech.github.io
+![JKDN](https://github.com/derronqi/derronqi/assets/34156011/2a9d5b5b-9758-421b-bba8-f807ebe1c095)
