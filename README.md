@@ -26,7 +26,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/derronqi/yolov7-face?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/derronqi/yolov7-face?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/derronqi/yolov8-face"><b>yolov8-face</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/derronqi/yolov8-face?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/derronqi/yolov8-face?style=flat-square&labelColor=343b41"/></td>
